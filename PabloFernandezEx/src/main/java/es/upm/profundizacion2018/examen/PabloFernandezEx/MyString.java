@@ -2,7 +2,7 @@ package es.upm.profundizacion2018.examen.PabloFernandezEx;
 
 public class MyString{
 
-	public String str;	
+	public static String str = "hola";	
 	
 	/*public int compareTo (String s1) {	
 		if(str.equals(s1)){
